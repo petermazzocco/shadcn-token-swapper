@@ -228,7 +228,7 @@ If you haven't initialized a Next.js project and would like to start fresh with 
 
 ```sh
 git clone https://github.com/petermazzocco/shadcn-token-swapper.git
-cd token-swapper
+cd shadcn-token-swapper
 ```
 
 **Install Dependencies:**
