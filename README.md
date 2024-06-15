@@ -227,7 +227,7 @@ If you haven't initialized a Next.js project and would like to start fresh with 
 **Clone the Repository:**
 
 ```sh
-git clone https://github.com/your-repo/token-swapper.git
+git clone https://github.com/petermazzocco/shadcn-token-swapper.git
 cd token-swapper
 ```
 
